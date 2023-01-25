@@ -35,6 +35,6 @@
 			  flowchart LR
 			      id1([This is the text in the box])
 			  ```
-		- 测试内容
+		-
 			-
 -
