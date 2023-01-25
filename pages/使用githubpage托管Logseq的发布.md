@@ -1,7 +1,4 @@
 - 创建github账号
-	- email：yang1371252549@163.com
-	- password： mvdz9ov7mkSEm6
-	- username： yanglogseq
 - 使用Fork添加Github账号，并clone仓库到OneDrive文件夹
 - 添加pages
 - 打开全部发布
