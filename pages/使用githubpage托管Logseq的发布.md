@@ -8,3 +8,5 @@
 - pull
 - 发布方案
 	- 使用[pengx17](https://github.com/pengx17/logseq-publish)的发布方案
+		- 复制example的yml并添加到github action中
+		- push本地文件后就可以查看github pages的变化
