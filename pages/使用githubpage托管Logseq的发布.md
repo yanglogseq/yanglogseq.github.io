@@ -5,5 +5,6 @@
 - 使用Fork添加Github账号，并clone仓库到OneDrive文件夹
 - 添加pages
 - 打开全部发布
+- pull
 - 发布方案
 	- 使用[pengx17](https://github.com/pengx17/logseq-publish)的发布方案
